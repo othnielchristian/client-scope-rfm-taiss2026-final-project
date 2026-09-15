@@ -22,4 +22,3 @@ dependencies = [
     "streamlit>=1.62.0",
     "ucimlrepo>=0.0.7",
 ]
-`
