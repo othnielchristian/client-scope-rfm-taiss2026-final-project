@@ -10,6 +10,7 @@ jupyterlab
 ipykernel
 nbstripout
 ucimlrepo
+plotly
 
 # extensions avancées
 lifetimes
